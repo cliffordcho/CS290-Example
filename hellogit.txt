@@ -1,3 +1,5 @@
 Hello Git!
+This project is for Assignment #1.
 
 by Clifford Cho
+
