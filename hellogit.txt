@@ -1,5 +1,5 @@
 Hello Git!
 This project is for Assignment #1.
-
+Also including branches.
 by Clifford Cho
 
